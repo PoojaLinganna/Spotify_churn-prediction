@@ -1,1 +1,1 @@
-I have uploaded my zip file due to larger file size. Do unzip it, and have a look.
+I have uploaded data with python file rin it in jupyter notebook. 
